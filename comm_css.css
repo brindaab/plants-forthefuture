@@ -1,0 +1,39 @@
+img{
+  display:block;
+  margin-left: auto;
+  margin: auto;
+  width:auto;
+}
+
+.topnav a {
+  float: left;
+  color: green;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: 'Alata', sans-serif;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: pink;
+}
+
+.topnav a.active {
+  background-color: #B4EEB4;
+  color: white;
+}
+
+#topic{
+  font-family: 'Lexend Peta', sans-serif;
+  color: #B4EEB4
+}
+
+#fact{
+  margin-left: 50px;
+  margin-right: 50px;
+  float: left;
+  font-family: 'Alata', serif;
+  color: #31807b;
+}
